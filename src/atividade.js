@@ -9,4 +9,3 @@ let delta = B*B - 4 * A * C
 let x1 = -B + Math.sqrt(delta) / (2 * A)
 let x2 = B - Math.sqrt(delta) / (2 * A)
 console.log(`X': ${x1}\nX'': ${x2}`)
-console.log(i)
